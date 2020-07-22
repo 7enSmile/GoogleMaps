@@ -1,0 +1,35 @@
+
+body {
+  margin: auto;
+
+  font-size: 14px;
+  color: #333;
+  height: 1000px;
+  position: relative;
+
+
+}
+
+
+
+
+.footer {
+  background:#769;
+  position: absolute; bottom: 0;
+  height:5%;
+  width: 100%;
+  display:inline-block;
+}
+
+.header {
+  height: 8%;
+  background: #6CAEDD;
+}
+
+
+
+.title {
+
+  font-size: 20px;
+  color: black;
+}
