@@ -4,5 +4,5 @@ die();
 ?>
 <footer class="footer">
 	<div style="display:inline-block"><p>Панкратов Семен<p></div>
-		<div style="display:inline-block"><a href="https://e.sfu-kras.ru/user/profile.php?id=106780">Проект</a></div>
+		<div style="display:inline-block"><a href="https://github.com/7enSmile/GoogleMaps">Проект</a></div>
 	</footer>
